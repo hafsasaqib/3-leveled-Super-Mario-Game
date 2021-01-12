@@ -18,10 +18,10 @@ I have displayed the obstacles and flag and Mario, Enemy, Castle, Coin and drago
 ![](img/level1.png)
 
 ## Level 2 Screen
-![](img/level2.png)
+![](img/level3.png)
 
 ## Level 3 Screen
-![](img/level3.png)
+![](img/level2.png)
 
 ## Ending Screen
 ![](img/endingScreen.png)
